@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370887599189",
+    "project_id": "igor-alish",
+    "storage_bucket": "igor-alish.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370887599189:android:bfd4394c2e12ae5bb920dc",
+        "android_client_info": {
+          "package_name": "com.example.event_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBHhlh_D05qcFV8EZvHMEMPoHDnNZqng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
